@@ -2,6 +2,6 @@
 
 # The Vice Potato
 
-<img src="/assets/vicepotato.png" style="max-height: 400px"/>
+<img src="/assets/vicepotato.png" width="50%"/>
 
 </div>
